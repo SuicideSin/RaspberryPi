@@ -1,0 +1,3 @@
+sysroot/
+*.img
+sysroot-relativelinks.py
